@@ -1,2 +1,0 @@
-# bomber
-Created with CodeSandbox
